@@ -1,7 +1,7 @@
 VSVersionInfo(
   ffi=FixedFileInfo(
-    filevers=(1, 0, 0, 0),
-    prodvers=(1, 0, 0, 0),
+    filevers=(1, 0, 1, 0),
+    prodvers=(1, 0, 1, 0),
     mask=0x3f,
     flags=0x0,
     OS=0x4,
@@ -16,12 +16,12 @@ VSVersionInfo(
         u'040904B0',
         [StringStruct(u'CompanyName', u'The Home Depot'),
         StringStruct(u'FileDescription', u'Program to get KeyRec numbers'),
-        StringStruct(u'FileVersion', u'1.0.0'),
+        StringStruct(u'FileVersion', u'1.0.1'),
         StringStruct(u'InternalName', u'GetKeyRec'),
         StringStruct(u'LegalCopyright', u'\xa9 The Home Depot. All rights reserved.'),
         StringStruct(u'OriginalFilename', u'GetKeyRec.exe'),
         StringStruct(u'ProductName', u'GetKeyRec'),
-        StringStruct(u'ProductVersion', u'1.0.0')])
+        StringStruct(u'ProductVersion', u'1.0.1')])
       ]), 
     VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
   ]

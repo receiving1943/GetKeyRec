@@ -38,12 +38,12 @@ pip install selenium
 ```
 3. Download ChromeDriver from here matching your Chrome version.
 4. Place the chromedriver executable in a directory accessible by your system or specify its path in the script.
-5. Save the script as po_key_receive.py or your preferred filename.
+5. Save the script as GetKeyRec.py or your preferred filename.
 ---	
 ## Usage
 Run the script:
 ```bash
-python po_key_receive.py
+python GetKeyRec.py
 ```
 Follow these steps:
 

@@ -117,6 +117,7 @@ if __name__ == "__main__":
             key_rec_pairs.append((po, key_rec))
         else:
             print("Failed to retrieve key rec.")
+            key_rec_pairs.append((po, 'Failed to retrieve key rec'))
         count += 1
         # print("Waiting 5 seconds before next PO...\n")
         t.sleep(5)
